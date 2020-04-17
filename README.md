@@ -8,6 +8,10 @@ lala
 
 lala2
 
+## How to Contribute
+
+Please fork this repo.
+
 ## Purpose
 
 this a new paragraph
