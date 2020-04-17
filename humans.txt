@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Roel -- Baas -- @woetjo
 
 # THANKS
 
